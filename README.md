@@ -12,6 +12,15 @@ Carga Horária: 40hs
 * Plano de Gestão de Dados de Pesquisa
 * Dados Abertos e Ciência Aberta 
 
+#### Objetivos Acadêmicos e Profissionais
+* Dominar um conjunto de técnicas e metodologias de gestão de informação;
+* Dominar os processos e ferramentas utilizados para o armazenamento, organização e acesso à informação no contexto da Biodiversidade;
+* Compreender os paradigmas e tecnologias atualmente utilizados na gestão e disseminação da informação sobre Biodiversidade;
+* Conhecer diversas metodologias e ferramentas de exploração e análise de informação de forma a reduzir os níveis de incerteza associados à tomada de decisão;
+* Desenvolver modelos para o estabelecimento de fluxos de informação que permitam melhorar os processos de apoio à decisão e gestão da Biodiversidade;
+* Ser capaz de identificar problemas relacionados com a gestão de informação;
+* Saber transformar dados em informação útil e relevante, utilizando uma linguagem acessível aos mais diversos centros de decisão;
+* Ser capaz de desenvolver, de forma autônoma, soluções para novos problemas, baseando-se no conhecimento adquirido com a resposta a problemas anteriores.
 
 ## Bibliografia
 Costello, M. J.; Wieczorek, J. Best practice for biodiversity data management and publication. Biological Conservation, v. 173, p. 68-73, mai. 2014. PDF
