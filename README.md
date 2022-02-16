@@ -1,7 +1,8 @@
-# Escola Nacional de Botânica Tropical
-## Mestrado Profissional Biodiversidade em Unidades de Conservação
+# [Escola Nacional de Botânica Tropical](https://www.gov.br/jbrj/pt-br/assuntos/educacao/escola-nacional-de-botanica-tropical-20-anos)
+
+## [Mestrado Profissional Biodiversidade em Unidades de Conservação](https://w2.solucaoatrio.net.br/somos/jbrj-mpenbt/index.php/pt/)
 ### EB113 - Gestão de informação em biodiversidade
-Professor responsável: Dr. Eduardo Dalcin (edalcin@jbrj.org)
+Professor responsável: [Dr. Eduardo Dalcin ](https://eduardo.dalc.in/)(edalcin@jbrj.org)
 
 Carga Horária: 40hs
 <hr>
