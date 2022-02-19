@@ -1,27 +1,46 @@
 ## EB113 - Gestão de informação em biodiversidade
 ## Turma 2022
 ---
-### 1º Dia - Segunda-feira
-#### Manhã
-#### Tarde
+### __1º Dia - Segunda-feira__
+
+| Horário | Atividade | Descrição |
+|---|---|---|
+| 8:30hs - 10:00hs | Apresentação da Disciplina, Professor e Alunos  | Expressar e alinhar expectativas<p>Apresentar o Github com programação|
+| 10:00hs - 12:00hs | Apresentação: Informática na Biodiversidade: onde estamos, como chegamos aqui e para onde vamos? |
+| 12:00hs - 13:30hs | Almoço |
+| 13:30hs - 15:30hs | Dinâmica: Tipos de Dados sobre Biodiversidade | Listar, organizar e relacionar os tipos de dados sobre biodiversidade do dia-a-dia dos alunos |
+| 15:30hs - 17:00hs | Apresentação: Informática na Biodiversidade: onde estamos, como chegamos aqui e para onde vamos? |
+
 ---
-### 2º Dia - Terça-feira
-#### Manhã
-#### Tarde
+### __2º Dia - Terça-feira__
+
+| Horário | Atividade | Descrição |
+|---|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+
+
 ---
-### 3º Dia - Quarta-feira
-#### Manhã
-#### Tarde
+### __3º Dia - Quarta-feira__
+| Horário | Atividade | Descrição |
+|---|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
 ---
-### 4º Dia - Quinta-feira
-#### Manhã
-#### Tarde
+### __4º Dia - Quinta-feira__
+| Horário | Atividade | Descrição |
+|---|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
 ---
-### 5º Dia - Sexta-feira
-#### Manhã
-* 9:00hs - 12:00hs
-  * Apresentação dos trabalhos
-#### Tarde
-* 14:00hs - 17:00hs
-  * Apresentação dos trabalhos
+### __5º Dia - Sexta-feira__
+| Horário | Atividade | Descrição |
+|---|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
 ---
