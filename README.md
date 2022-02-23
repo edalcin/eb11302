@@ -11,7 +11,10 @@ Carga Horária: 40hs
 * Gestão de Informação sobre Biodiversidade
 * Gestão de Dados de Pesquisa
 * Plano de Gestão de Dados de Pesquisa
-* Dados Abertos e Ciência Aberta 
+* Dados Abertos e Ciência Aberta
+* Padrões de Dados e Metadados
+* Qualidade de Dados
+
 
 #### Objetivos Acadêmicos e Profissionais
 * Dominar um conjunto de técnicas e metodologias de gestão de informação;
