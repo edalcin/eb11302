@@ -7,7 +7,10 @@ Professor responsável: [Dr. Eduardo Dalcin ](https://eduardo.dalc.in/)(edalcin@
 Carga Horária: 40hs
 <hr>
 
-#### Ementa da disciplina
+| [2017](https://sites.google.com/jbrj.org/eb113-2017/p%C3%A1gina-inicial) | [2019](https://sites.google.com/jbrj.org/eb113-2019/p%C3%A1gina-inicial) | [2022](https://github.com/edalcin/eb113/tree/main/2022) |
+|---|---|---|
+
+### __Ementa da disciplina__
 * Gestão de Informação sobre Biodiversidade
 * Gestão de Dados de Pesquisa
 * Plano de Gestão de Dados de Pesquisa
@@ -16,7 +19,7 @@ Carga Horária: 40hs
 * Qualidade de Dados
 
 
-#### Objetivos Acadêmicos e Profissionais
+### __Objetivos Acadêmicos e Profissionais__
 * Dominar um conjunto de técnicas e metodologias de gestão de informação;
 * Dominar os processos e ferramentas utilizados para o armazenamento, organização e acesso à informação no contexto da Biodiversidade;
 * Compreender os paradigmas e tecnologias atualmente utilizados na gestão e disseminação da informação sobre Biodiversidade;
@@ -26,7 +29,7 @@ Carga Horária: 40hs
 * Saber transformar dados em informação útil e relevante, utilizando uma linguagem acessível aos mais diversos centros de decisão;
 * Ser capaz de desenvolver, de forma autônoma, soluções para novos problemas, baseando-se no conhecimento adquirido com a resposta a problemas anteriores.
 
-## Bibliografia
+### __Bibliografia__
 Costello, M. J.; Wieczorek, J. Best practice for biodiversity data management and publication. Biological Conservation, v. 173, p. 68-73, mai. 2014. PDF
 
 Drucker, D. P. 2011. Avanços na Integração e Gerenciamento de Dados Ecológicos. Natureza & Conservação 9(1):115-120, July 2011. PDF
