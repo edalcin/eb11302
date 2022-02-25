@@ -1,4 +1,5 @@
-## EB113 - Gestão de informação em biodiversidade
+## Gestão de informação em biodiversidade
+## EB11603 (antiga EB113)
 ## Turma 2022
 ---
 ### __1º Dia - Segunda-feira__
