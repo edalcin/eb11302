@@ -1,4 +1,4 @@
-## Gestão de informação em biodiversidade
+## Gestão de Informação sobre Biodiversidade e Dados de Pesquisa
 ## EB11302 (antiga EB113)
 ## Turma 2022 - Período Letivo: 2022/1
 ### 06 - 10 de Junho de 2022
