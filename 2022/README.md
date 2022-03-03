@@ -1,8 +1,9 @@
 ## Gestão de informação em biodiversidade
-## EB11603 (antiga EB113)
+## EB11302 (antiga EB113)
 ## Turma 2022
+### 06 - 10 de Junho de 2022
 ---
-### __1º Dia - Segunda-feira__
+### __1º Dia - Segunda-feira (06)__
 | Horário | Atividade | Descrição |
 |---|---|---|
 | 8:30hs - 10:00hs | Apresentação da Disciplina, Professor e Alunos  | Expressar e alinhar expectativas;<p>Apresentar o Github com programação e ferramenta para discussão.|
@@ -11,7 +12,7 @@
 | 13:30hs - 15:30hs | __Dinâmica__: Tipos de Dados sobre Biodiversidade | Listar, organizar e relacionar os tipos de dados sobre biodiversidade do dia-a-dia dos alunos e de seus projetos. |
 | 15:30hs - 17:00hs | __Apresentação__: _Tipos de Dados sobre Biodiversidade_<p>__Prof.__: Eduardo Dalcin |
 ---
-### __2º Dia - Terça-feira__
+### __2º Dia - Terça-feira (07)__
 | Horário | Atividade | Descrição |
 |---|---|---|
 | 8:30hs - 9:00hs  | Avaliação do primeiro dia |   |
@@ -21,7 +22,7 @@
 | 13:30hs - 15:00hs | __Dinâmica__: Gestão de Dados | Os alunos descrevem, em sua visão, como se dará a gestão de dados de seus projetos ou como se dá, em suas atividades profissionais. |
 | 15:00hs - 17:00hs | __Apresentação__: _Conceitos de Gestão de Dados_<p>__Prof.__: Eduardo Dalcin | Abordar repositórios e ferramentas de publicação de dados<p>Abordar o DMBOK   |
 ---
-### __3º Dia - Quarta-feira__
+### __3º Dia - Quarta-feira (08)__
 | Horário | Atividade | Descrição |
 |---|---|---|
 | 8:30hs - 9:00hs  | Avaliação do segundo dia |   |
@@ -32,7 +33,7 @@
 | 13:30hs - 15:00hs | __Apresentação__:  _Dados Abertos e Ciência Aberta_<p>__Prof.__: Eduardo Dalcin | Abordar os princípios FAIR e iniciativas no Brasil. |
 | 15:00hs - 17:00hs | __Apresentação__:  _Plano de Gestão de Dados_<p>__Prof.__: Eduardo Dalcin | Apresentar o Plano de Gestão de Dados em sua estrtura básica e principais referências<p>Apresentar trabalho de conclusão da disciplina. |
 ---
-### __4º Dia - Quinta-feira__
+### __4º Dia - Quinta-feira (09)__
 | Horário | Atividade | Descrição |
 |---|---|---|
 | 8:30hs - 9:00hs  | Avaliação do terceiro dia |   |
@@ -43,7 +44,7 @@
 | 15:00hs - 15:30hs | __Discussão__:  | Qual da demanda por uso de dados na sua instituição?<p>Qual o potencial uso dos dados do seu Projeto?<p>Como medir e monitorar seu uso? |
 | 15:30hs - 17:00hs | __Apresentação__:  _Gestão de Informação sobre Biodiversidade - Estratégias e Desafios_<p>__Prof.__: Eduardo Dalcin |  |
 ---
-### __5º Dia - Sexta-feira__
+### __5º Dia - Sexta-feira (10)__
 | Horário | Atividade | Descrição |
 |---|---|---|
 | 8:30hs - 9:00hs  | Avaliação do quarto dia |   |
