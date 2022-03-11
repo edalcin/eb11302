@@ -18,7 +18,7 @@
 |---|---|---|
 | 8:30hs - 9:00hs  | Avaliação do primeiro dia |   |
 | 9:00hs - 10:30hs | __Dinâmica__: Fluxo de Dados | Os alunos descrevem, em sua visão, o fluxo de dados de seus projetos ou atividades profissionais. |
-| 10:30hs - 12:00hs | __Apresentação__: _Fluxo de Dados_<p>__Prof.__: Eduardo Dalcin | Abordar repositórios e ferramentas de publicação de dados   |
+| 10:30hs - 12:00hs | __Apresentação__: _Fluxo de Dados_<p>__Prof.__: Eduardo Dalcin | Do campo à tomada de decisão - como funciona o fluxo de dados de biodiversidade e porque ele é importante   |
 | 12:00hs - 13:30hs | Almoço |
 | 13:30hs - 15:00hs | __Dinâmica__: Gestão de Dados | Os alunos descrevem, em sua visão, como se dará a gestão de dados de seus projetos ou como se dá, em suas atividades profissionais. |
 | 15:00hs - 17:00hs | __Apresentação__: _Conceitos de Gestão de Dados_<p>__Prof.__: Eduardo Dalcin | Abordar repositórios e ferramentas de publicação de dados<p>Abordar o DMBOK   |
@@ -43,7 +43,7 @@
 | 12:00hs - 13:30hs | Almoço |
 | 13:30hs - 15:00hs | __Apresentação__: _Uso de Dados_<p>__Prof.__: Eduardo Dalcin | Exemplos de uso de dados padronizados e abertos: RAAPP, Dashboards do Google Data Studio e JARDBOT |
 | 15:00hs - 15:30hs | __Discussão__:  | Qual da demanda por uso de dados na sua instituição?<p>Qual o potencial uso dos dados do seu Projeto?<p>Como medir e monitorar seu uso? |
-| 15:30hs - 17:00hs | __Apresentação__:  _Gestão de Informação sobre Biodiversidade - Estratégias e Desafios_<p>__Prof.__: Eduardo Dalcin |  |
+| 15:30hs - 17:00hs | __Apresentação__:  _Gestão de Informação sobre Biodiversidade - Estratégias e Desafios_<p>__Prof.__: Eduardo Dalcin | Onde estamos na gestão de dados sobre biodiversidade e seus principas desafios |
 ---
 ### __5º Dia - Sexta-feira (10)__
 | Horário | Atividade | Descrição |
