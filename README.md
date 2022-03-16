@@ -47,4 +47,4 @@ Sayão, L. F.; Sales, L. F. 2015. Guia de Gestão de Dados de Pesquisa para Bibl
 
 SILVA, D.L.; CORRÊA, P.L.P.; JUAREZ, K.M.; FONSECA, R.L. 2015. Diretrizes para Integração de Dados de Biodiversidade. Brasília: MMA, 100p. PDF
 
-Wieczorek, J., Bloom, D., Guralnick, R., Blum, S., Döring, M., Giovanni, R., Vieglais, D. 2012. Darwin Core: An evolving community-developed biodiversity data standard. PloS one, 7(1). PDF
+Wieczorek, J., Bloom, D., Guralnick, R., Blum, S., Döring, M., Giovanni, R., Vieglais, D. 2012. Darwin Core: An evolving community-developed biodiversity data standard. PloS one, 7(1). ([PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0029715&type=printable))
