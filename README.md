@@ -43,7 +43,7 @@ Sales, L. F. & Sayão, L. F. 2019. Dados de pesquisa: quem ama cuida. Brasília,
 
 Sayão, L. F., & Sales, L. F. 2014. Dados abertos de pesquisa: ampliando os conceitos de acesso livre. RECIIS–Rev. Eletron. de Comun. Inf. Inov. Saúde, 8(2), 76-92. PDF
 
-Sayão, L. F.; Sales, L. F. 2015. Guia de Gestão de Dados de Pesquisa para Bibliotecários e Pesquisadores. Comissão Nacional de Energia Nuclear (CNEN), Editor: Centro de Informações Nucleares (CIN); Instituto de Engenharia Nuclear (IEN), ISBN: 978-85-61905-03-3 PDF
+Sayão, L. F.; Sales, L. F. 2015. Guia de Gestão de Dados de Pesquisa para Bibliotecários e Pesquisadores. Comissão Nacional de Energia Nuclear (CNEN), Editor: Centro de Informações Nucleares (CIN); Instituto de Engenharia Nuclear (IEN), ISBN: 978-85-61905-03-3 ([PDF](http://www.icb.usp.br/~sbibicb/images/guia%20gestaoPDF/Guia%20de%20gestao%20dados%20de%20pesquisa.pdf))
 
 SILVA, D.L.; CORRÊA, P.L.P.; JUAREZ, K.M.; FONSECA, R.L. 2015. Diretrizes para Integração de Dados de Biodiversidade. Brasília: MMA, 100p. PDF
 
