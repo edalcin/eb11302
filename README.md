@@ -33,7 +33,7 @@ Carga Horária: 40hs
 Costello, M. J.; Wieczorek, J. Best practice for biodiversity data management and publication. Biological Conservation, v. 173, p. 68-73, mai. 2014. PDF
 
 Drucker, D. P. 2011. Avanços na Integração e Gerenciamento de Dados Ecológicos. Natureza & Conservação 9(1):115-120, July 2011. PDF
-Hobern, D. et al. Global Biodiversity Information Outlook - Delivering Biodiversity Knowledge in the Information Age. 2013. GBIF Secretariat. PDF
+Hobern, D. et al. Global Biodiversity Information Outlook - Delivering Biodiversity Knowledge in the Information Age. 2013. GBIF Secretariat. ([PDF](http://doi.editoracubo.com.br/10.4322/natcon.2011.016))
 
 MPOG, Manual para elaboração de Plano de Dados Abertos. 2013. PDF
 
