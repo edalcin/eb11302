@@ -39,7 +39,7 @@ MPOG, Manual para elaboração de Plano de Dados Abertos. 2013. PDF
 
 Robertson T, Döring M, Guralnick R, Bloom D, Wieczorek J, et al. 2014. The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet. PLoS ONE 9(8). PDF
 
-Sales, L. F. & Sayão, L. F. 2019. Dados de pesquisa: quem ama cuida. Brasília, DF : Comissão Nacional de Energia Nuclear (Brasil) : IBICT, Série: Divulgação em Ciência Aberta); Rio de Janeiro. (PDF)
+Sales, L. F. & Sayão, L. F. 2019. Dados de pesquisa: quem ama cuida. Brasília, DF : Comissão Nacional de Energia Nuclear (Brasil) : IBICT, Série: Divulgação em Ciência Aberta); Rio de Janeiro. ([PDF](https://livroaberto.ibict.br/bitstream/123456789/1083/2/cartilha%20dados%20de%20pesquisa.pdf)
 
 Sayão, L. F., & Sales, L. F. 2014. Dados abertos de pesquisa: ampliando os conceitos de acesso livre. RECIIS–Rev. Eletron. de Comun. Inf. Inov. Saúde, 8(2), 76-92. PDF
 
