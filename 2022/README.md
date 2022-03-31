@@ -7,7 +7,7 @@
 ### __1º Dia - Segunda-feira (06)__
 | Horário | Atividade | Descrição |
 |---|---|---|
-| 8:30hs - 10:00hs | Apresentação da Disciplina, Professor e Alunos  | Expressar e alinhar expectativas;<p>Apresentar o Github com programação e ferramenta para discussão.|
+| 8:30hs - 10:00hs | Apresentação da Disciplina, Professor e Alunos  | Expressar e alinhar expectativas;<p>Apresentar o Github com programação e ferramenta para discussão;<p>Apresentar o trabalho de conclusão da disciplina. | 
 | 10:00hs - 12:00hs | __Apresentação__: _Informática na Biodiversidade: onde estamos, como chegamos aqui e para onde vamos?_<p>__Prof.__: Eduardo Dalcin | Apresentar o surgimento e evolução da Informática na Biodiversidade fazendo referência aos marcos e referências mais importantes.
 | 12:00hs - 13:30hs | Almoço |
 | 13:30hs - 15:30hs | __Dinâmica__: Tipos de Dados sobre Biodiversidade | Listar, organizar e relacionar os tipos de dados sobre biodiversidade do dia-a-dia dos alunos e de seus projetos. |
@@ -33,7 +33,7 @@
 | 11:00hs - 12:00hs | __Apresentação__: _Qualidade de Dados_<p>__Prof.__: Eduardo Dalcin |  |
 | 12:00hs - 13:30hs | Almoço |
 | 13:30hs - 15:00hs | __Apresentação__:  _Dados Abertos e Ciência Aberta_<p>__Prof.__: Eduardo Dalcin | Abordar os princípios FAIR e iniciativas no Brasil. |
-| 15:00hs - 16:00hs | __Apresentação__:  _Plano de Gestão de Dados_<p>__Prof.__: Eduardo Dalcin | Apresentar o Plano de Gestão de Dados em sua estrtura básica e principais referências<p>Apresentar trabalho de conclusão da disciplina. |
+| 15:00hs - 16:00hs | __Apresentação__:  _Plano de Gestão de Dados_<p>__Prof.__: Eduardo Dalcin | Apresentar o Plano de Gestão de Dados em sua estrtura básica e principais referências |
 | 16:00hs - 17:00hs | __Oficina__: _GRIST_<p>__Prof.__: Eduardo Dalcin | Apresentação da ferramenta [Google Data Studio](https://datastudio.google.com/)   |
 ---
 ### __4º Dia - Quinta-feira (09)__
