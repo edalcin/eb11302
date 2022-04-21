@@ -37,7 +37,7 @@ Hobern, D. et al. Global Biodiversity Information Outlook - Delivering Biodivers
 
 MPOG, Manual para elaboração de Plano de Dados Abertos. 2013. PDF
 
-([Parker-Allie F, Pando F, Telenius A, Ganglo JC, Vélez D, Gibbons MJ, Talavan A, Raymond M, Russell L, Talukdar G, Vargas M, Radji R, Koivula H, Heughebaert A, Endresen D, Amariles-García D, Osawa T (2021) Towards a Post-Graduate Level Curriculum for Biodiversity Informatics. Perspectives from the Global Biodiversity Information Facility (GBIF) Community. Biodiversity Data Journal 9: e68010.](https://doi.org/10.3897/BDJ.9.e68010))
+[Parker-Allie F, Pando F, Telenius A, Ganglo JC, Vélez D, Gibbons MJ, Talavan A, Raymond M, Russell L, Talukdar G, Vargas M, Radji R, Koivula H, Heughebaert A, Endresen D, Amariles-García D, Osawa T (2021) Towards a Post-Graduate Level Curriculum for Biodiversity Informatics. Perspectives from the Global Biodiversity Information Facility (GBIF) Community. Biodiversity Data Journal 9: e68010.](https://doi.org/10.3897/BDJ.9.e68010)
 
 Robertson T, Döring M, Guralnick R, Bloom D, Wieczorek J, et al. 2014. The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet. PLoS ONE 9(8). PDF
 
