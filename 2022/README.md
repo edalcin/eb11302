@@ -41,7 +41,8 @@
 |---|---|---|
 | 8:30hs - 9:00hs  | Avaliação do terceiro dia |   |
 | 9:00hs - 10:30hs | __Apresentação__: _Publicação de Dados sobre Biodiversidade_<p>__Prof.__: Eduardo Dalcin | Abordar repositórios e ferramentas de publicação de dados   |
-| 10:30hs - 12:00hs | __Apresentação__: _Portal de Dados da DIPEQ_<p>__Prof.__: Eduardo Dalcin | Apresentar o estudo de caso da DIPEQ na publicação dos seus dados de pesquisa e coleções |
+| 10:30hs - 11:30hs | __Apresentação__: _Portal de Dados da DIPEQ_<p>__Prof.__: Eduardo Dalcin | Apresentar o Zenodo |
+| 11:30hs - 12:00hs | __Apresentação__: _Portal de Dados da DIPEQ_<p>__Prof.__: Eduardo Dalcin | Apresentar o estudo de caso da DIPEQ na publicação dos seus dados de pesquisa e coleções |
 | 12:00hs - 13:30hs | Almoço |
 | 13:30hs - 15:00hs | __Apresentação__: _Uso de Dados_<p>__Prof.__: Eduardo Dalcin | Exemplos de uso de dados padronizados e abertos: RAAPP, Dashboards do Google Data Studio e JARDBOT |
 | 15:00hs - 15:30hs | __Discussão__:  | Qual da demanda por uso de dados na sua instituição?<p>Qual o potencial uso dos dados do seu Projeto?<p>Como medir e monitorar seu uso? |
