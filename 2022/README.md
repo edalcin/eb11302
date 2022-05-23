@@ -9,7 +9,7 @@
 
 | Horário | Atividade | Descrição |
 |---|---|---|
-| 8:30hs - 10:00hs | Apresentação da Disciplina, Professor e Alunos  | Expressar e alinhar expectativas;<p>Apresentar o Github com programação e ferramenta para discussão;<p>Apresentar o trabalho de conclusão da disciplina. | 
+| 8:30hs - 10:00hs | Apresentação da Disciplina, Professor e Alunos  | Expressar e alinhar expectativas;<p>Apresentar o Github com programação e ferramenta para discussão;<p>Apresentar o trabalho de conclusão da disciplina. |
 | 10:00hs - 12:00hs | __Apresentaçã 01__: _Informática na Biodiversidade: onde estamos, como chegamos aqui e para onde vamos?_<p>__Prof.__: Eduardo Dalcin | Apresentar o surgimento e evolução da Informática na Biodiversidade fazendo referência aos marcos e referências mais importantes.
 | 12:00hs - 13:30hs | Almoço |
 | 13:30hs - 15:30hs | __Dinâmica__: Tipos de Dados sobre Biodiversidade | Listar, organizar e relacionar os tipos de dados sobre biodiversidade do dia-a-dia dos alunos e de seus projetos. |
@@ -28,7 +28,9 @@
 | 15:00hs - 16:00hs | __Apresentação 04__: _Conceitos de Gestão de Dados_<p>__Prof.__: Eduardo Dalcin | Abordar repositórios e ferramentas de publicação de dados<p>Abordar o DMBOK   |
 | 16:00hs - 17:00hs | __Oficina__: _GRIST_<p>__Prof.__: Eduardo Dalcin | Apresentação da ferramenta [GRIST](https://www.getgrist.com/)   |
 ---
+
 ### __3º Dia - Quarta-feira (08)__
+
 | Horário | Atividade | Descrição |
 |---|---|---|
 | 8:30hs - 9:00hs  | Avaliação do segundo dia |   |
@@ -40,7 +42,9 @@
 | 15:00hs - 16:00hs | __Apresentação 08__:  _Plano de Gestão de Dados_<p>__Prof.__: Eduardo Dalcin | Apresentar o Plano de Gestão de Dados em sua estrtura básica e principais referências |
 | 16:00hs - 17:00hs | __Oficina__: _GRIST_<p>__Prof.__: Eduardo Dalcin | Apresentação da ferramenta [Google Data Studio](https://datastudio.google.com/)   |
 ---
+
 ### __4º Dia - Quinta-feira (09)__
+
 | Horário | Atividade | Descrição |
 |---|---|---|
 | 8:30hs - 9:00hs  | Avaliação do terceiro dia |   |
@@ -51,7 +55,9 @@
 | 15:00hs - 15:30hs | __Discussão__:  | Qual da demanda por uso de dados na sua instituição?<p>Qual o potencial uso dos dados do seu Projeto?<p>Como medir e monitorar seu uso? |
 | 15:30hs - 17:00hs | __Apresentação 12__:  _Gestão de Informação sobre Biodiversidade - Estratégias e Desafios_<p>__Prof.__: Eduardo Dalcin | Onde estamos na gestão de dados sobre biodiversidade e seus principas desafios |
 ---
+
 ### __5º Dia - Sexta-feira (10)__
+
 | Horário | Atividade | Descrição |
 |---|---|---|
 | 8:30hs - 9:00hs  | Avaliação do quarto dia |   |
