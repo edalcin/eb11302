@@ -20,10 +20,8 @@ size: 4:3
 
 ---
 
-## Apresentação do GRIST
+### Apresentação do GRIST
 
 >Listar, organizar e relacionar os tipos de dados sobre biodiversidade do dia-a-dia dos alunos e de seus projetos.
-
-
 
 ---
