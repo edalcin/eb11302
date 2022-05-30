@@ -30,7 +30,7 @@ size: 4:3
 
 >Lista de termos e reconhecimento
 
-* Apresetar uma lista de termos ligados a disciplina e aquele que já ouviu falar levanta um braço, quem sabe o que é levanta os dois braços.
+* Apresetar uma [lista de termos ligados a disciplina](https://github.com/edalcin/eb113/blob/main/2022/listaTermos.md) e aquele que já ouviu falar levanta um braço, quem sabe o que é levanta os dois braços.
 ---
 
 ## Tarefa do Dia #2
