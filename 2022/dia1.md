@@ -26,11 +26,18 @@ size: 4:3
 
 ---
 
-## Tarefa do Dia
+## Tarefa do Dia #1
+
+>Lista de termos e reconhecimento
+
+* Apresetar uma lista de termos ligados a disciplina e aquele que já ouviu falar levanta um braço, quem sabe o que é levanta os dois braços.
+---
+
+## Tarefa do Dia #2
 
 >Listar, organizar e relacionar os tipos de dados sobre biodiversidade do dia-a-dia dos alunos e de seus projetos.
 
-1. Escolher um ou dois relatores para ir ao quadro e anotar as sugestões da turma (30 minutos) 
+1. Escolher um ou dois relatores para ir ao quadro e anotar as sugestões da turma (30 minutos)
    * As "sugestões" devem se expressãr em "palavras" e não "sentenças"
 2. Agrupar as sugestões em "categorias"
 3. Ao final, fotografar o quadro
