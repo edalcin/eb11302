@@ -9,7 +9,7 @@
 
 | Horário | Atividade | Descrição |
 |---|---|---|
-| 8:30hs - 10:00hs | Apresentação da Disciplina, Professor e Alunos  | Expressar e alinhar expectativas;<p>Apresentar o Github com programação e ferramenta para discussão;<p>Apresentar o trabalho de conclusão da disciplina. |
+| 8:30hs - 10:00hs | Apresentação da Disciplina, Professor e Alunos  | - Expressar e alinhar expectativas;<p>- Apresentar o Github com programação e ferramenta para discussão;<p>- Apresentar o trabalho de conclusão da disciplina. |
 | 10:00hs - 10:30hs | __Dinâmica__: Termos e Acrônimos | Verbalizar uma [lista de termos e acrônimos relacionados com a disciplina](https://github.com/edalcin/eb113/blob/main/2022/listaTermos.md) e pedir aos alunos que se manifestem quanto ao conhecimento. |
 | 10:30hs - 12:00hs | __Apresentaçã 01__: _Informática na Biodiversidade: onde estamos, como chegamos aqui e para onde vamos?_<p>__Prof.__: Eduardo Dalcin | Apresentar o surgimento e evolução da Informática na Biodiversidade fazendo referência aos marcos e referências mais importantes.
 | 12:00hs - 13:30hs | Almoço |
@@ -26,7 +26,7 @@
 | 10:30hs - 12:00hs | __Apresentação 03__: _Fluxo de Dados_<p>__Prof.__: Eduardo Dalcin | Do campo à tomada de decisão - como funciona o fluxo de dados de biodiversidade e porque ele é importante   |
 | 12:00hs - 13:30hs | Almoço |
 | 13:30hs - 15:00hs | __Dinâmica__: Gestão de Dados | Os alunos descrevem, em sua visão, como se dará a gestão de dados de seus projetos ou como se dá, em suas atividades profissionais. |
-| 15:00hs - 16:00hs | __Apresentação 04__: _Conceitos de Gestão de Dados_<p>__Prof.__: Eduardo Dalcin | Abordar repositórios e ferramentas de publicação de dados<p>Abordar o DMBOK   |
+| 15:00hs - 16:00hs | __Apresentação 04__: _Conceitos de Gestão de Dados_<p>__Prof.__: Eduardo Dalcin | Abordar repositórios e ferramentas de publicação de dados<p>Abordar o DAMA-DMBOK   |
 | 16:00hs - 17:00hs | __Oficina__: _GRIST_<p>__Prof.__: Eduardo Dalcin | Apresentação da ferramenta [GRIST](https://www.getgrist.com/)   |
 ---
 
