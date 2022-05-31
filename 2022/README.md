@@ -41,7 +41,7 @@
 | 12:00hs - 13:30hs | Almoço |
 | 13:30hs - 15:00hs | __Apresentação 07__:  _Dados Abertos e Ciência Aberta_<p>__Prof.__: Eduardo Dalcin | Abordar os princípios FAIR e iniciativas no Brasil. |
 | 15:00hs - 16:00hs | __Apresentação 08__:  _Plano de Gestão de Dados_<p>__Prof.__: Eduardo Dalcin | Apresentar o Plano de Gestão de Dados em sua estrtura básica e principais referências |
-| 16:00hs - 17:00hs | __Oficina__: _GRIST_<p>__Prof.__: Eduardo Dalcin | Apresentação da ferramenta [Google Data Studio](https://datastudio.google.com/)   |
+| 16:00hs - 17:00hs | __Oficina__: _Google Data Studio_<p>__Prof.__: Eduardo Dalcin | Apresentação da ferramenta [Google Data Studio](https://datastudio.google.com/)   |
 ---
 
 ### __4º Dia - Quinta-feira (09)__
@@ -49,8 +49,9 @@
 | Horário | Atividade | Descrição |
 |---|---|---|
 | 8:30hs - 9:00hs  | Avaliação do terceiro dia |   |
-| 9:00hs - 10:30hs | __Apresentação 09__: _Portal de Dados da DIPEQ_<p>__Prof.__: Eduardo Dalcin | Apresentar o Zenodo |
+| 9:00hs - 10:30hs | __Apresentação 09__: _Portal de Dados da DIPEQ_<p>__Prof.__: Eduardo Dalcin | Apresentar o Portal de Dados e Ferramentas Associadas |
 | 11:30hs - 12:00hs | __Apresentação 10__: _Publicação de Dados_<p>__Prof.__: Eduardo Dalcin | Apresentar o estudo de caso da DIPEQ na publicação dos seus dados de pesquisa e coleções |
+| 11:30hs - 12:00hs | __Oficina__: _Zenodo_<p>__Prof.__: Eduardo Dalcin | Apresentar o [Zenodo](https://zenodo.org/) |
 | 12:00hs - 13:30hs | Almoço |
 | 13:30hs - 15:00hs | __Apresentação 11__: _Uso de Dados_<p>__Prof.__: Eduardo Dalcin | Exemplos de uso de dados padronizados e abertos: RAAPP, Dashboards do Google Data Studio e JARDBOT |
 | 15:00hs - 15:30hs | __Discussão__:  | Qual da demanda por uso de dados na sua instituição?<p>Qual o potencial uso dos dados do seu Projeto?<p>Como medir e monitorar seu uso? |
