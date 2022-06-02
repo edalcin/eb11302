@@ -4,7 +4,13 @@
 * SiBBr
 * SQL
 * Plano de Gestão de Dados
-* Princípios FAIR
+* GO FAIR
 * Specify
 * EML
-* 
+* e-Science
+* Data Flow
+* Dublin Core
+* QGIS
+* R
+* Mapbiomas
+* SinBiose (CNPq)
