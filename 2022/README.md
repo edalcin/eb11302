@@ -27,7 +27,7 @@
 | 12:00hs - 13:30hs | Almoço |
 | 13:30hs - 15:00hs | __Dinâmica__: Gestão de Dados | Os alunos descrevem, em sua visão, como se dará a gestão de dados de seus projetos ou como se dá, em suas atividades profissionais. |
 | 15:00hs - 16:00hs | __Apresentação 04__: _Conceitos de Gestão de Dados_<p>__Prof.__: Eduardo Dalcin | Abordar repositórios e ferramentas de publicação de dados<p>Abordar o DAMA-DMBOK   |
-| 16:00hs - 17:00hs | __Oficina__: _GRIST_<p>__Prof.__: Eduardo Dalcin | - Apresentação da ferramenta [GRIST](https://www.getgrist.com/)<p>- Apresentar [NocoDB](https://nocodb.com/) e [AirTable](https://www.airtable.com/)   |
+| 16:00hs - 17:00hs | __Oficina__: _GRIST_<p>__Prof.__: Eduardo Dalcin | - Apresentação da ferramenta [GRIST](https://www.getgrist.com/)<p>- Apresentar [NocoDB](https://nocodb.com/), [AirTable](https://www.airtable.com/) e [Baserow](https://baserow.io/)   |
 ---
 
 ### __3º Dia - Quarta-feira (08)__
