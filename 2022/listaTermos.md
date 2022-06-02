@@ -5,4 +5,6 @@
 * SQL
 * Plano de Gestão de Dados
 * Princípios FAIR
+* Specify
+* EML
 * 
