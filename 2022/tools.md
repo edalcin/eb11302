@@ -1,0 +1,18 @@
+# Lista de ferramentas de interesse
+
+* [Kepler](https://kepler-project.org/index.html)
+* [GRIST](https://getgrist.com)
+* [NocoDB](https://nocodb.com/)
+* [Airtable](https://www.airtable.com/)
+* [Baserow](https://baserow.io/)
+* [Google Data Studio](https://datastudio.google.com/)
+* [Apache nifi](https://nifi.apache.org/)
+* [Orange](https://orangedatamining.com/)
+* [Gephi](https://gephi.org/)
+* [QuickSight](https://aws.amazon.com/pt/quicksight/)
+* [Tableau](https://www.tableau.com/)
+* [Metabase](https://www.metabase.com/)
+* []()
+* []()
+* []()
+* []()
