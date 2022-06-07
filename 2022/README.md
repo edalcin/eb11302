@@ -11,9 +11,9 @@
 |---|---|---|
 | 8:30hs - 10:00hs | Apresentação da Disciplina, Professor e Alunos  | - Expressar e alinhar expectativas;<br>- Apresentar o Github com programação e ferramenta para discussão;<br>- Apresentar o trabalho de conclusão da disciplina. |
 | 10:00hs - 10:30hs | __Dinâmica__: Termos e Acrônimos | Verbalizar uma [lista de termos e acrônimos relacionados com a disciplina](http://dalcin.dyndns.org:3030/r7iSIjTaTjunmYB4gKEnFQ?view) e pedir aos alunos que se manifestem quanto ao conhecimento. |
-| 10:30hs - 12:00hs | __Apresentaçã 01__: _Informática na Biodiversidade: onde estamos, como chegamos aqui e para onde vamos?_<br>__Prof.__: Eduardo Dalcin | Apresentar o surgimento e evolução da Informática na Biodiversidade fazendo referência aos marcos e referências mais importantes.
+| 10:30hs - 12:00hs | __Apresentaçã 01__: _[Informática na Biodiversidade: onde estamos, como chegamos aqui e para onde vamos](https://1drv.ms/p/s!Ajwhyi0Gjm9GgYJAuWaV7zsLKqqcpw?e=IQB3Uw)_<br>__Prof.__: Eduardo Dalcin | Apresentar o surgimento e evolução da Informática na Biodiversidade fazendo referência aos marcos e referências mais importantes.
 | 12:00hs - 13:30hs | Almoço |
-| 13:30hs - 15:30hs | __Dinâmica__: Tipos de Dados sobre Biodiversidade | Listar, organizar e relacionar os tipos de dados sobre biodiversidade do dia-a-dia dos alunos e de seus projetos. |
+| 13:30hs - 15:30hs | __Dinâmica__: [Tipos de Dados sobre Biodiversidade](https://1drv.ms/p/s!Ajwhyi0Gjm9GgYI87ajWGAeKRXaw3w?e=lFuWvP) | Listar, organizar e relacionar os tipos de dados sobre biodiversidade do dia-a-dia dos alunos e de seus projetos. |
 | 15:30hs - 17:00hs | __Apresentação 02__: _Tipos de Dados sobre Biodiversidade_<br>__Prof.__: Eduardo Dalcin |
 ---
 
