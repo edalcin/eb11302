@@ -1,11 +1,4 @@
 ## Referências
-### __1º Dia - Segunda-feira__
-### __2º Dia - Terça-feira__
-### __3º Dia - Quarta-feira__
-* Barbieri, Carlos. (2013). Uma visão sintética e comentada do Data Management Body of Knowledge (DMBOK). Fumsoft - Belo Horizonte. PDF
-
-### __4º Dia - Quinta-feira__
----
 
 * Barbieri, Carlos. (2013). Uma visão sintética e comentada do Data Management Body of Knowledge (DMBOK). Fumsoft - Belo Horizonte. PDF
 * Chapman, A. D. (2005). Principles and Methods of Data Cleaning – Primary Species and Species-Occurrence Data, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. Available online at http://www.gbif.org/orc/?doc_id=1262. PDF
