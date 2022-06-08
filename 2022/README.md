@@ -11,9 +11,9 @@
 |---|---|---|
 | 8:30hs - 10:00hs | Apresentação da Disciplina, Professor e Alunos  | - Expressar e alinhar expectativas;<br>- Apresentar o Github com programação e ferramenta para discussão;<br>- Apresentar o trabalho de conclusão da disciplina. |
 | 10:00hs - 10:30hs | __Dinâmica__: Termos e Acrônimos | Verbalizar uma lista de termos e acrônimos relacionados com a disciplina e pedir aos alunos que se manifestem quanto ao conhecimento. |
-| 10:30hs - 12:00hs | __Apresentaçã 01__: _[Informática na Biodiversidade: onde estamos, como chegamos aqui e para onde vamos](https://1drv.ms/p/s!Ajwhyi0Gjm9GgYJAuWaV7zsLKqqcpw?e=IQB3Uw)_<br>__Prof.__: Eduardo Dalcin | Apresentar o surgimento e evolução da Informática na Biodiversidade fazendo referência aos marcos e referências mais importantes.
+| 10:30hs - 12:00hs | __Apresentaçã 01__: _[Informática na Biodiversidade: onde estamos, como chegamos aqui e para onde vamos](https://1drv.ms/p/s!Ajwhyi0Gjm9GgYJAuWaV7zsLKqqcpw?e=q5c5pY)_<br>__Prof.__: Eduardo Dalcin | Apresentar o surgimento e evolução da Informática na Biodiversidade fazendo referência aos marcos e referências mais importantes.
 | 12:00hs - 13:30hs | Almoço |
-| 13:30hs - 15:30hs | __Dinâmica__: [Tipos de Dados sobre Biodiversidade](https://1drv.ms/p/s!Ajwhyi0Gjm9GgYI87ajWGAeKRXaw3w?e=lFuWvP) | Listar, organizar e relacionar os tipos de dados sobre biodiversidade do dia-a-dia dos alunos e de seus projetos. |
+| 13:30hs - 15:30hs | __Dinâmica__: [Tipos de Dados sobre Biodiversidade](https://1drv.ms/p/s!Ajwhyi0Gjm9GgYI87ajWGAeKRXaw3w?e=MaRQdA) | Listar, organizar e relacionar os tipos de dados sobre biodiversidade do dia-a-dia dos alunos e de seus projetos. |
 | 15:30hs - 17:00hs | __Apresentação 02__: _Tipos de Dados sobre Biodiversidade_<br>__Prof.__: Eduardo Dalcin |
 ---
 
@@ -23,10 +23,10 @@
 |---|---|---|
 | 8:30hs - 9:00hs  | Avaliação do primeiro dia |   |
 | 9:00hs - 10:30hs | __Dinâmica__: Fluxo de Dados | Os alunos descrevem, em sua visão, o fluxo de dados de seus projetos ou atividades profissionais. |
-| 10:30hs - 12:00hs | __Apresentação 03__: _Fluxo de Dados_<br>__Prof.__: Eduardo Dalcin | Do campo à tomada de decisão - como funciona o fluxo de dados de biodiversidade e porque ele é importante   |
+| 10:30hs - 12:00hs | __Apresentação 03__: _[Fluxo de Dados](https://1drv.ms/p/s!Ajwhyi0Gjm9GgYI415AQDNfYtjwpkg?e=HZto3z)_<br>__Prof.__: Eduardo Dalcin | Do campo à tomada de decisão - como funciona o fluxo de dados de biodiversidade e porque ele é importante   |
 | 12:00hs - 13:30hs | Almoço |
 | 13:30hs - 15:00hs | __Dinâmica__: Gestão de Dados | Os alunos descrevem, em sua visão, como se dará a gestão de dados de seus projetos ou como se dá, em suas atividades profissionais. |
-| 15:00hs - 16:00hs | __Apresentação 04__: _Conceitos de Gestão de Dados_<br>__Prof.__: Eduardo Dalcin | Abordar repositórios e ferramentas de publicação de dados<br>Abordar o DAMA-DMBOK   |
+| 15:00hs - 16:00hs | __Apresentação 04__: _[Conceitos de Gestão de Dados](https://1drv.ms/p/s!Ajwhyi0Gjm9GgYI5NDrFIjZwVt6v5A?e=s5i3uw)_<br>__Prof.__: Eduardo Dalcin | Abordar repositórios e ferramentas de publicação de dados<br>Abordar o DAMA-DMBOK   |
 | 16:00hs - 17:00hs | __Oficina__: _GRIST_<br>__Prof.__: Eduardo Dalcin | - Apresentação da ferramenta [GRIST](https://www.getgrist.com/)<br>- Apresentar [NocoDB](https://nocodb.com/), [AirTable](https://www.airtable.com/) e [Baserow](https://baserow.io/)   |
 ---
 
