@@ -35,12 +35,12 @@
 | Horário | Atividade | Descrição |
 |---|---|---|
 | 8:30hs - 9:00hs  | Avaliação do segundo dia |   |
-| 9:00hs - 10:30hs | __Apresentação 05__: _Padrões de Dados e Metadados_<br>__Prof.__: Eduardo Dalcin | Abordar os principais padrões de dados e metadados para Biodiversidade |
+| 9:00hs - 10:30hs | __Apresentação 05__: _[Padrões de Dados e Metadados](https://1drv.ms/p/s!Ajwhyi0Gjm9GgYI7aslhVVdVun5peA?e=Ihjqoh)_<br>__Prof.__: Eduardo Dalcin | Abordar os principais padrões de dados e metadados para Biodiversidade |
 | 10:30hs - 11:00hs | __Discussão__: O que é "qualidade de dados" | O que caracteriza um dado de qualidade?<br>Quais os {principais, potenciais} problemas de qualidade do seu projeto e como tratá-los ? |
-| 11:00hs - 12:00hs | __Apresentação 06__: _Qualidade de Dados_<br>__Prof.__: Eduardo Dalcin |  |
+| 11:00hs - 12:00hs | __Apresentação 06__: _[Qualidade de Dados](https://1drv.ms/p/s!Ajwhyi0Gjm9GgYI6mpgRnYCytFa_EQ?e=UILq0J)_<br>__Prof.__: Eduardo Dalcin |  |
 | 12:00hs - 13:30hs | Almoço |
-| 13:30hs - 15:00hs | __Apresentação 07__:  _Dados Abertos e Ciência Aberta_<br>__Prof.__: Eduardo Dalcin | Abordar os princípios FAIR e iniciativas no Brasil. |
-| 15:00hs - 16:00hs | __Apresentação 08__:  _Plano de Gestão de Dados_<br>__Prof.__: Eduardo Dalcin | Apresentar o Plano de Gestão de Dados em sua estrtura básica e principais referências |
+| 13:30hs - 15:00hs | __Apresentação 07__:  _[Dados Abertos e Ciência Aberta](https://1drv.ms/p/s!Ajwhyi0Gjm9GgYI3xSGuXSH7UB-LYQ?e=noeOwu)_<br>__Prof.__: Eduardo Dalcin | Abordar os princípios FAIR e iniciativas no Brasil. |
+| 15:00hs - 16:00hs | __Apresentação 08__:  _[Plano de Gestão de Dados](https://1drv.ms/p/s!Ajwhyi0Gjm9GgYI2B9h7qo49f5nbjw?e=IpV8xY)_<br>__Prof.__: Eduardo Dalcin | Apresentar o Plano de Gestão de Dados em sua estrtura básica e principais referências |
 | 16:00hs - 17:00hs | __Oficina__: _Google Data Studio_<br>__Prof.__: Eduardo Dalcin | Apresentação da ferramenta [Google Data Studio](https://datastudio.google.com/)   |
 ---
 
