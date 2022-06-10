@@ -49,13 +49,13 @@
 | Horário | Atividade | Descrição |
 |---|---|---|
 | 8:30hs - 9:00hs  | Avaliação do terceiro dia |   |
-| 9:00hs - 10:30hs | __Apresentação 09__: _Portal de Dados da DIPEQ_<br>__Prof.__: Eduardo Dalcin | Apresentar o Portal de Dados e Ferramentas Associadas |
-| 11:30hs - 12:00hs | __Apresentação 10__: _Publicação de Dados_<br>__Prof.__: Eduardo Dalcin | Apresentar o estudo de caso da DIPEQ na publicação dos seus dados de pesquisa e coleções |
+| 9:00hs - 10:30hs | __Apresentação 09__: _[Portal de Dados da DIPEQ](https://1drv.ms/p/s!Ajwhyi0Gjm9GgYI-ZRgCXffrGa61YQ?e=scwJyT)_<br>__Prof.__: Eduardo Dalcin | Apresentar o Portal de Dados e Ferramentas Associadas |
+| 11:30hs - 12:00hs | __Apresentação 10__: _[Publicação de Dados](https://1drv.ms/p/s!Ajwhyi0Gjm9GgYI90s9WrvgVDzjaQg?e=ND42fu)_<br>__Prof.__: Eduardo Dalcin | Apresentar o estudo de caso da DIPEQ na publicação dos seus dados de pesquisa e coleções |
 | 11:30hs - 12:00hs | __Oficina__: _Zenodo_<br>__Prof.__: Eduardo Dalcin | Apresentar o [Zenodo](https://zenodo.org/) |
 | 12:00hs - 13:30hs | Almoço |
 | 13:30hs - 15:00hs | __Apresentação 11__: _Uso de Dados_<br>__Prof.__: Eduardo Dalcin | Exemplos de uso de dados padronizados e abertos: RAAPP, Dashboards do Google Data Studio e JARDBOT |
 | 15:00hs - 15:30hs | __Discussão__:  | Qual da demanda por uso de dados na sua instituição?<br>Qual o potencial uso dos dados do seu Projeto?<br>Como medir e monitorar seu uso? |
-| 15:30hs - 17:00hs | __Apresentação 12__:  _Gestão de Informação sobre Biodiversidade - Estratégias e Desafios_<br>__Prof.__: Eduardo Dalcin | Onde estamos na gestão de dados sobre biodiversidade e seus principas desafios |
+| 15:30hs - 17:00hs | __Apresentação 12__:  _[Gestão de Informação sobre Biodiversidade - Estratégias e Desafios](https://1drv.ms/p/s!Ajwhyi0Gjm9GgYJBFSjVQ99wJEINSw?e=9Zu4c3)_<br>__Prof.__: Eduardo Dalcin | Onde estamos na gestão de dados sobre biodiversidade e seus principas desafios |
 ---
 
 ### __5º Dia - Sexta-feira (10)__
