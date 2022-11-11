@@ -1,23 +1,15 @@
 ## Referências
 
-* Barbieri, Carlos. (2013). Uma visão sintética e comentada do Data Management Body of Knowledge (DMBOK). Fumsoft - Belo Horizonte. PDF
-* Chapman, A. D. (2005). Principles and Methods of Data Cleaning – Primary Species and Species-Occurrence Data, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. Available online at http://www.gbif.org/orc/?doc_id=1262. PDF
-* Chapman, A. D. (2015). Princípios de Qualidade de Dados. Versão 1.0 pt em Português lançada em abril 2015 e traduzida para pelo Nó Português do GBIF (www.gbif.pt) e pelo representante brasileiro do GBIF, SiBBr (Sistema de Informação sobre a Biodiversidade Brasileira, www.sibbr.gov.br). Versão original em Inglês lançada em jul 2005. Copenhagen: Global Biodiversity Information Facility. 81 pp. ISBN: 87-92020-58-5. Disponível on-line em http://www.gbif.org/orc/?doc_id=5990. PDF
-* Costello, M. J.; Wieczorek, J. Best practice for biodiversity data management and publication. Biological Conservation, v. 173, p. 68-73, mai. 2014. PDF
-* Drucker, D. P. 2011. Avanços na Integração e Gerenciamento de Dados Ecológicos. Natureza & Conservação 9(1):115-120, July 2011. PDF
-* Hobern, D. et al. Global Biodiversity Information Outlook - Delivering Biodiversity Knowledge in the Information Age. 2013. GBIF Secretariat. PDF
-* MPOG, Manual para elaboração de Plano de Dados Abertos. 2013. PDF
-* Robertson T, Döring M, Guralnick R, Bloom D, Wieczorek J, et al. 2014. The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet. PLoS ONE 9(8). PDF
-* Sayão, L. F., & Sales, L. F. 2014. Dados abertos de pesquisa: ampliando os conceitos de acesso livre. RECIIS–Rev. Eletron. de Comun. Inf. Inov. Saúde, 8(2), 76-92. PDF
-* Sayão, L. F.; Sales, L. F. 2015. Guia de Gestão de Dados de Pesquisa para Bibliotecários e Pesquisadores. Comissão Nacional de Energia Nuclear (CNEN), Editor: Centro de Informações Nucleares (CIN); Instituto de Engenharia Nuclear (IEN), ISBN: 978-85-61905-03-3 PDF
-* Wieczorek, J., Bloom, D., Guralnick, R., Blum, S., Döring, M., Giovanni, R., Vieglais, D. 2012. Darwin Core: An evolving community-developed biodiversity data standard. PloS one, 7(1). PDF
-* Costello, M. J.; Wieczorek, J. Best practice for biodiversity data management and publication. Biological Conservation, v. 173, p. 68-73, mai. 2014. PDF
-* Drucker, D. P. 2011. Avanços na Integração e Gerenciamento de Dados Ecológicos. Natureza & Conservação 9(1):115-120, July 2011. PDF
-* Hobern, D. et al. Global Biodiversity Information Outlook - Delivering Biodiversity Knowledge in the Information Age. 2013. GBIF Secretariat. PDF
-MPOG, Manual para elaboração de Plano de Dados Abertos. 2013. PDF
-* Robertson T, Döring M, Guralnick R, Bloom D, Wieczorek J, et al. 2014. The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet. PLoS ONE 9(8). PDF
-* Sales, L. F. & Sayão, L. F. 2019. Dados de pesquisa: quem ama cuida. Brasília, DF : Comissão Nacional de Energia Nuclear (Brasil) : IBICT, Série: Divulgação em Ciência Aberta); Rio de Janeiro. (PDF)
-* Sayão, L. F., & Sales, L. F. 2014. Dados abertos de pesquisa: ampliando os conceitos de acesso livre. RECIIS–Rev. Eletron. de Comun. Inf. Inov. Saúde, 8(2), 76-92. PDF
-* Sayão, L. F.; Sales, L. F. 2015. Guia de Gestão de Dados de Pesquisa para Bibliotecários e Pesquisadores. Comissão Nacional de Energia Nuclear (CNEN), Editor: Centro de Informações Nucleares (CIN); Instituto de Engenharia Nuclear (IEN), ISBN: 978-85-61905-03-3 PDF
-* SILVA, D.L.; CORRÊA, P.L.P.; JUAREZ, K.M.; FONSECA, R.L. 2015. Diretrizes para Integração de Dados de Biodiversidade. Brasília: MMA, 100p. PDF
-* Wieczorek, J., Bloom, D., Guralnick, R., Blum, S., Döring, M., Giovanni, R., Vieglais, D. 2012. Darwin Core: An evolving community-developed biodiversity data standard. PloS one, 7(1). PDF
+
+  BARBIERI, Carlos; FARINELLI, Fernanda. Uma visão sintética e comentada do Data Management Body of Knowledge (DMBOK). [S. l.: s. n.], 2013. https://doi.org/10.13140/RG.2.1.1561.2561.
+  CHAPMAN, A.D. Principles and Methods of Data Cleaning: Primary Species and Species-Occurrence Data. [s. d.]. Disponível em: https://www.gbif.org/document/80528/principles-and-methods-of-data-cleaning-primary-species-and-species-occurrence-data. Acesso em: 10 nov. 2022.
+  COSTELLO, Mark J.; WIECZOREK, John. Best practice for biodiversity data management and publication. Biological Conservation, v. 173, p. 68–73, 1 maio 2014. DOI 10.1016/j.biocon.2013.10.018. Disponível em: https://www.sciencedirect.com/science/article/pii/S000632071300373X. Acesso em: 10 nov. 2022.
+  DA SILVA, Daniel Lins; CORRÊA, Pedro Luiz Pizzigatti; JUAREZ, Keila Macfadem; FONSECA, Rafael Luis. Diretrizes para a Integração de Dados de Biodiversidade. [S. l.: s. n.], 2015. Disponível em: https://www.gov.br/icmbio/pt-br/assuntos/monitoramento/conteudo/Materiais-de-Apoio/diretrizes_para_a_integracao_de_dados_da_biodiversiade.pdf.
+  DADOS ABERTOS DE PESQUISA: AMPLIANDO O CONCEITO DE ACESSO LIVRE | REVISTA ELETRÔNICA DE COMUNICAÇÃO, INFORMAÇÃO & INOVAÇÃO EM SAÚDE. 11 ago. 2022. Disponível em: https://www.reciis.icict.fiocruz.br/index.php/reciis/article/view/611. Acesso em: 10 nov. 2022.
+  DRUCKER, Debora Pignatari. Avanços na Integração e Gerenciamento de Dados Ecológicos. Natureza & Conservação, v. 9, n. 1, p. 115–120, 2011. DOI 10.4322/natcon.2011.016. Disponível em: http://doi.editoracubo.com.br/10.4322/natcon.2011.016. Acesso em: 10 nov. 2022.
+  GLOBAL BIODIVERSITY INFORMATICS OUTLOOK: DELIVERING BIODIVERSITY KNOWLEDGE IN THE INFORMATION AGE. [s. d.]. Disponível em: https://www.gbif.org/document/80859/global-biodiversity-informatics-outlook-delivering-biodiversity-knowledge-in-the-information-age. Acesso em: 10 nov. 2022.
+  ROBERTSON, Tim; DÖRING, Markus; GURALNICK, Robert; BLOOM, David; WIECZOREK, John; BRAAK, Kyle; OTEGUI, Javier; RUSSELL, Laura; DESMET, Peter. The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet. PLOS ONE, v. 9, n. 8, p. e102623, de ago de 2014. DOI 10.1371/journal.pone.0102623. Disponível em: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102623. Acesso em: 10 nov. 2022.
+  SALES, Luana Farias; SAYÃO, Luís Fernando. Dados de pesquisa: quem ama cuida. 23 jul. 2020. Disponível em: http://livroaberto.ibict.br/handle/123456789/1083. Acesso em: 10 nov. 2022.
+  SAYÃO, Luís Fernando. Guia de gestão de dados de pesquisa para bibliotecários e pesquisadores. [S. l.: s. n.], 2015.
+  WIECZOREK, John; BLOOM, David; GURALNICK, Robert; BLUM, Stan; DÖRING, Markus; GIOVANNI, Renato; ROBERTSON, Tim; VIEGLAIS, David. Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. PLoS ONE, v. 7, n. 1, p. e29715, 6 jan. 2012. DOI 10.1371/journal.pone.0029715. Disponível em: https://dx.plos.org/10.1371/journal.pone.0029715. Acesso em: 10 nov. 2022.
+
