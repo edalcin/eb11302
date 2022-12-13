@@ -23,6 +23,6 @@ graph LR
     00(Ementa) --> 04[4º Dia]
         04 --> 04.1[Tutoria]
     00(Ementa) --> 05[5º Dia]
-        05 --> 05.1[Apresentação]
+        05 --> 05.1[Apresentação dos<br>trabalhos de conclusão da Disciplina]
         
 ```
