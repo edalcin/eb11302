@@ -7,7 +7,7 @@ Professor responsável: [Dr. Eduardo Dalcin ](https://eduardo.dalc.in/)(edalcin@
 Carga Horária: 40hs
 <hr>
 
-| [2017](https://sites.google.com/jbrj.org/eb113-2017/p%C3%A1gina-inicial) | [2019](https://sites.google.com/jbrj.org/eb113-2019/p%C3%A1gina-inicial) | [2022](https://github.com/edalcin/eb113/tree/main/2022) |
+| [2017](https://sites.google.com/jbrj.org/eb1132017/p%C3%A1gina-inicial) | [2019](https://sites.google.com/jbrj.org/eb1132019/p%C3%A1gina-inicial) | [2022](https://github.com/edalcin/eb113/tree/main/2022) |
 |---|---|---|
 
 ### __Ementa da disciplina__
