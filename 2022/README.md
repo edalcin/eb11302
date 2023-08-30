@@ -1,6 +1,6 @@
 ## Gestão de Informação sobre Biodiversidade e Dados de Pesquisa
 ## EB11302 (antiga EB113)
-## [Turma 2022 - Período Letivo: 2022/1](https://docs.google.com/spreadsheets/d/1wrY2yVG_k05FLu5RhWn9SsZh_S-GSXa2Q-MgVxcfYO0/edit?usp=sharing)
+## Turma 2022 - Período Letivo: 2022/1
 
 <img src="https://gitserver.jbrj.gov.br/edalcin/eb11302/-/raw/main/imgs/eb11302turma2022.jpg" width="300">
 
