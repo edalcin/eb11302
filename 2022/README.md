@@ -2,7 +2,7 @@
 ## EB11302 (antiga EB113)
 ## [Turma 2022 - Período Letivo: 2022/1](https://docs.google.com/spreadsheets/d/1wrY2yVG_k05FLu5RhWn9SsZh_S-GSXa2Q-MgVxcfYO0/edit?usp=sharing)
 
-<a href="https://1drv.ms/u/s!Ajwhyi0Gjm9GgYJsVQxj69yyLNP0YA?e=vyEO5E"><img src="https://snz04pap001files.storage.live.com/y4mFuFMDPlLa-dnysUpdNlf6PXwA32wWoQdpYk70UeO7EAD0doZ89brCGdSAYEUkC1y4RzJ2VsrZXJD116rLhAaOMO8ZiSM_hM7dr2a7GkbrFHiELcWvDbOZRl51aWj7wjwCSV2OqnLrIg5SfCqw4s-FWRj0kg4MD6LZ26JbRKLAPFrvjeKhjjacaNVa9vYGtnM?width=228&height=256&cropmode=none" width="228" height="256" /></a>
+<img src="https://gitserver.jbrj.gov.br/edalcin/eb11302/-/raw/main/imgs/eb11302turma2022.jpg" width="300">
 
 ### 06 - 10 de Junho de 2022
 ### Carga Horária: 40hs (02 créditos)
