@@ -2,7 +2,7 @@
 
 ## [Mestrado Profissional Biodiversidade em Unidades de Conservação](https://w2.solucaoatrio.net.br/somos/jbrj-mpenbt/index.php/pt/)
 ### EB11302 (antiga EB113) - Gestão de informação em biodiversidade
-Professor responsável: [Dr. Eduardo Dalcin ](https://eduardo.dalc.in/)(edalcin@jbrj.org)
+Professor responsável: [Dr. Eduardo Dalcin ](https://eduardo.dalc.in/)(edalcin@jbrj.gov.br)
 
 Carga Horária: 40hs
 <hr>
