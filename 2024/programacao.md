@@ -7,7 +7,7 @@
 | Horário | Atividade | Descrição |
 |---|---|---|
 | 8:30hs - 10:00hs | Apresentação da Disciplina, Professor e Alunos  | - Expressar e alinhar expectativas;<br>- Apresentar o Github com programação e ferramenta para discussão;<br>- Apresentar o trabalho de conclusão da disciplina. |
-| 10:00hs - 10:30hs |  |  |
+| 10:00hs - 10:30hs | Entendendo o problema: Linhas do tempo e do progresso |   |
 | 10:30hs - 12:00hs |  |  |
 | 12:00hs - 13:30hs | Almoço |
 | 13:30hs - 15:30hs |  |  |
