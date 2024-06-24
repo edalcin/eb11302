@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
     00(Ementa) --> 01[1º Dia]
-        01 --> 01.1[teste]
-        01 --> 01.2[teste]
+        01 --> 01.1[Apresentação do Programa]
+        01 --> 01.2[Apresentação do Trabalho de Conclusão]
     00 --> 02[2º Dia] 
         02 --> 02.1[teste]
         02 --> 02.2[teste]
