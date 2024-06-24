@@ -33,7 +33,7 @@
 | Horário | Atividade | Descrição |
 |---|---|---|
 | 8:30hs - 9:00hs  | Avaliação do segundo dia | Tempo para críticas e sugestões sobre as atividades do segundo dia |
-| 9:00hs - 12:00hs  | Estruturas de Dados | <li>Documentos</li><ul><li>JSON e JSONCrack</li><li>Instalando MongoDB - [Docker](https://docs.docker.com/desktop/install/windows-install/)</li><li>[Instalando o MongoDB Compass](https://www.mongodb.com/try/download/compass)</li><li>Criando Coleção e Documento</li><li>Agregando</li></ul> |
+| 9:00hs - 12:00hs  | Estruturas de Dados | <li>Documentos</li><ul><li>JSON e JSONCrack</li><li>Instalando MongoDB - [Docker](https://docs.docker.com/desktop/install/windows-install/)</li><li>[MongoDB Cloud](https://account.mongodb.com/)</li><li>[Instalando o MongoDB Compass](https://www.mongodb.com/try/download/compass)</li><li>Criando Coleção e Documento</li><li>Agregando</li></ul> |
 | 12:00hs - 13:30hs | Almoço |
 | 13:30hs - 15:30hs | Estruturas de Dados | <li>Grafos</li><ul><li>Usando o Arrows</li><li>Instalando o Surreal - Docker e [Surrealist](https://surrealdb.com/surrealist)</li><li>Criando tabelas e registros</li></ul> |
 | 15:30hs - 15:40hs | Café |
