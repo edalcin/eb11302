@@ -51,7 +51,7 @@
 | 15:30hs - 17:00hs | Tempo para os alunos prepararem seu Trabalho de Conlusão da Disciplina |  |
 ---
 
-### __5º Dia - Sexta-feira (0x)__
+### __5º Dia - Sexta-feira (20)__
 
 | Horário | Atividade | Descrição |
 |---|---|---|
