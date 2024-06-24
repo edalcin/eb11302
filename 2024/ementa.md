@@ -1,4 +1,4 @@
-## Proposta de Ementa da Disciplina em 202x
+## Proposta de Ementa da Disciplina em 2024
 
 ```mermaid
 graph LR
