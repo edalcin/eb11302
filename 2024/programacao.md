@@ -14,7 +14,7 @@
 | 13:30hs - 17:00hs | Programa da disciplina | <li>GitHub - Documentação e Publicação</li><ul><li>[Markdown](https://www.markdownguide.org/basic-syntax/)</li><li>[Mermaid](https://mermaid.js.org/)</li></ul><li>[Plano de Gestão de Dados](https://mooc.campusvirtual.fiocruz.br/rea/ciencia-aberta/serie3/curso2/aula5.html) - [Modelo](https://cloud.jbrj.gov.br/s/BTnX947nFqaRKt7)</li><li>Planejando e Documentando</li><ul><li>Mapas mentais - [MindMeister](https://www.mindmeister.com/)</li><li>Mapas conceituais - [CMaps]()</li></ul><li>[Estruturas de Dados](https://eduardo.dalc.in/a-maldicao-das-tabelas/)</li><ul><li>Tabelas</li><li>Documentos</li><li>Grafos</li></ul><li>Ferramentas de modelagem de dados</li><ul><li>[DBDiagram](https://dbdiagram.io/home)</li><li>[JSONCrack](https://jsoncrack.com/editor)</li><li>[Arrows](https://arrows.app/)</li></ul><li>Ferramentas para gestão de dados</li><ul><li>[GRIST](https://www.getgrist.com/)</li><li>[MongoDB](https://www.mongodb.com/) - [MongoDB Compass](https://www.mongodb.com/try/download/compass)</li><li>[ArangoDB](https://arangodb.com/) / [Neo4J](https://neo4j.com/) / [Surreal](https://surrealdb.com/) - [Surrealist](https://surrealdb.com/surrealist)</li></ul><li>Visualização de Dados</li><ul><li>[Looker Studio](https://lookerstudio.google.com/)</li><li>[Florish](https://app.flourish.studio/templates)</li><li>[Tableau (Public)](https://public.tableau.com/app/discover)</li><li>[Gephi](https://gephi.org/)</li><li>[Metabase](https://www.metabase.com/)</li></ul><li>Publicação de Dados</li><ul><li>[The Integrated Publishing Toolkit (IPT)](https://www.gbif.org/ipt)</li><li>[Zenodo](https://zenodo.org/)</li><li>[FigShare](https://figshare.com/)</li><li>[Dryad](https://datadryad.org/)</li></ul> |
 ---
 
-### __2º Dia - Terça-feira (0x)__
+### __2º Dia - Terça-feira (17)__
 
 | Horário | Atividade | Descrição |
 |---|---|---|
@@ -25,40 +25,37 @@
 | 12:00hs - 13:30hs | Almoço |
 | 13:30hs - 15:30hs | Planejando | Exercício com mapas mentais e conceituais |
 | 15:30hs - 15:40hs | Café |
-| 15:40hs - 17:00hs | Estrutura de Dados | Tabelas - GRIST e DBDiagram |
+| 15:40hs - 17:00hs | Estruturas de Dados | Tabelas - GRIST e DBDiagram |
 ---
 
-### __3º Dia - Quarta-feira (0x)__
+### __3º Dia - Quarta-feira (18)__
 
 | Horário | Atividade | Descrição |
 |---|---|---|
-| 8:30hs - 9:00hs  | Avaliação do primeiro dia |   |
-| 9:00hs - 10:00hs  |  |  |
-| 10:00hs - 10:30hs |  |  |
-| 10:30hs - 12:00hs |  |  |
+| 8:30hs - 9:00hs  | Avaliação do segundo dia | Tempo para críticas e sugestões sobre as atividades do segundo dia |
+| 9:00hs - 12:00hs  | Estruturas de Dados | <li>Documentos</li><ul><li>JSON e JSONCrack</li><li>Instalando MongoDB - [Docker](https://docs.docker.com/desktop/install/windows-install/)</li><li>[Instalando o MongoDB Compass](https://www.mongodb.com/try/download/compass)</li><li>Criando Coleção e Documento</li><li>Agregando</li></ul> |
 | 12:00hs - 13:30hs | Almoço |
-| 13:30hs - 15:30hs |  |  |
-| 15:30hs - 17:00hs |  |  |
+| 13:30hs - 15:30hs | Estruturas de Dados | <li>Grafos</li><ul><li>Usando o Arrows</li><li>Instalando o Surreal - Docker e [Surrealist](https://surrealdb.com/surrealist)</li><li>Criando tabelas e registros</li></ul> |
+| 15:30hs - 15:40hs | Café |
+| 15:40hs - 17:00hs | Visualização de Dados | <li>[Looker Studio](https://lookerstudio.google.com/)</li><li>[Florish](https://app.flourish.studio/templates)</li><li>[Tableau (Public)](https://public.tableau.com/app/discover)</li><li>[Gephi](https://gephi.org/)</li><li>[Metabase](https://www.metabase.com/)</li> |
 ---
 
-### __4º Dia - Quinta-feira (0x)__
+### __4º Dia - Quinta-feira (19)__
 
 | Horário | Atividade | Descrição |
 |---|---|---|
-| 8:30hs - 9:00hs  | Avaliação do primeiro dia |   |
-| 9:00hs - 10:00hs  |  |  |
-| 10:00hs - 10:30hs |  |  |
-| 10:30hs - 12:00hs |  |  |
+| 8:30hs - 9:00hs  | Avaliação do terceiro dia | Tempo para críticas e sugestões sobre as atividades do terceiro dia |
+| 9:00hs - 12:00hs  | Tempo para os alunos exercitarem e explorarem as ferramentas de planejamento, modelagem, gestão e visualização de dados |  |
 | 12:00hs - 13:30hs | Almoço |
-| 13:30hs - 15:30hs |  |  |
-| 15:30hs - 17:00hs |  |  |
+| 13:30hs - 15:30hs | Publicação de Dados | <li>GitHub</li><li>[The Integrated Publishing Toolkit (IPT)](https://www.gbif.org/ipt)</li><li>[Zenodo](https://zenodo.org/)</li><li>[FigShare](https://figshare.com/)</li><li>[Dryad](https://datadryad.org/)</li> |
+| 15:30hs - 17:00hs | Tempo para os alunos prepararem seu Trabalho de Conlusão da Disciplina |  |
 ---
 
 ### __5º Dia - Sexta-feira (0x)__
 
 | Horário | Atividade | Descrição |
 |---|---|---|
-| 8:30hs - 9:00hs  | Avaliação do quarto dia |   |
+| 8:30hs - 9:00hs  | Avaliação do quarto dia e da disciplina | Tempo para críticas e sugestões sobre as atividades do quarto dia e da disciplina |
 | 9:00hs - 12:00hs  | Apresentação dos trabalhos de conclusão da Disciplina  |   |
 | 12:00hs - 13:30hs | Almoço |
 | 13:30hs - 17:00hs  | Apresentação dos trabalhos de conclusão da Disciplina  |   |
