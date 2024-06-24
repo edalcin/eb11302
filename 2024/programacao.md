@@ -47,8 +47,9 @@
 | 8:30hs - 9:00hs  | Avaliação do terceiro dia | Tempo para críticas e sugestões sobre as atividades do terceiro dia |
 | 9:00hs - 12:00hs  | Tempo para os alunos exercitarem e explorarem as ferramentas de planejamento, modelagem, gestão e visualização de dados |  |
 | 12:00hs - 13:30hs | Almoço |
-| 13:30hs - 15:30hs | Publicação de Dados | <li>GitHub</li><li>[The Integrated Publishing Toolkit (IPT)](https://www.gbif.org/ipt)</li><li>[Zenodo](https://zenodo.org/)</li><li>[FigShare](https://figshare.com/)</li><li>[Dryad](https://datadryad.org/)</li> |
-| 15:30hs - 17:00hs | Tempo para os alunos prepararem seu Trabalho de Conlusão da Disciplina |  |
+| 13:30hs - 15:30hs | Publicação de Dados | <li>GitHub</li><li>[The Integrated Publishing Toolkit (IPT)](https://www.gbif.org/ipt)</li><li>[Zenodo](https://zenodo.org/)</li><li>[FigShare](https://figshare.com/)</li><li>[Dryad](https://datadryad.org/)</li><li><i>[Data Storytelling](https://eduardo.dalc.in/era-uma-vez-em-um-reino-muito-distante/)</i></li><ul><li>Recursos para explorar:</li><ul><li>[storytelling with data (Youtube)](https://www.youtube.com/c/storytellingwithdata)</li><li>[Data storytelling: Planejando e contando a história dos dados](https://www.amazon.com.br/Data-storytelling-Planejando-contando-hist%C3%B3ria/dp/6558688077)</li></ul></ul> |
+| 15:30hs - 15:40hs | Café |
+| 15:40hs - 17:00hs | Tempo para os alunos prepararem seu Trabalho de Conclusão da Disciplina |  |
 ---
 
 ### __5º Dia - Sexta-feira (20)__
