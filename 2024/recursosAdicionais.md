@@ -46,6 +46,7 @@
   * [Dryad](https://datadryad.org/)
   * [Frictionless Data](https://frictionlessdata.io/)
   * [IPT: The Integrated Publishing Toolkit](https://www.gbif.org/ipt)
+  * [Data Curator](https://github.com/qcif/data-curator)
 * Padrões de Dados
   * [TDWG](https://www.tdwg.org/)
   * [Darwin Core](https://dwc.tdwg.org/terms/)
