@@ -6,7 +6,7 @@
 
 ```mermaid
 graph LR
-    00(Ementa) --> 01[1º Dia]
+    00(Programa) --> 01[1º Dia]
         01 --> 01.1[Apresentação do Programa]
         01 --> 01.2[Apresentação do Trabalho de Conclusão]
         01 --> 01.3["Linha da Vida": Apresentação<br>e seleção dos projetos]
