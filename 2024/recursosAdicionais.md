@@ -32,6 +32,7 @@
   * [Kepler](https://kepler-project.org/index.html)
 * Padrões para edição no GitHub
   * [Markdown](https://www.markdownguide.org/)
+    * [Word2Markdown](https://word2md.com/) 
   * [Mermaid](https://mermaid.js.org/)
 * Mapas mentais e conceituais
   * [MindMeister](https://www.mindmeister.com/)
