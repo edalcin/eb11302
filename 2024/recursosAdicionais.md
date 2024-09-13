@@ -1,6 +1,11 @@
 
 ## Recursos Relacionados
 
+### Apresentações em Vídeo do Curso de Capacitação em Gestão de Informação sobre Biodiversidade - 15 de março a 14 de abril de 2021
+
+[AQUI](https://sites.google.com/jbrj.org/gestodeinformaosobrebiodiversi/apresenta%C3%A7%C3%B5es)
+
+### Outros recursos
 
 * Gestão de Dados
   * [GRIST](https://getgrist.com)
