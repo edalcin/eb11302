@@ -27,7 +27,7 @@
 | 10:50hs - 11:00hs | Café |
 | 11:00hs - 12:00hs | Plano de Gestão de Dados | <li>[Princípios F.A.I.R.](https://mooc.campusvirtual.fiocruz.br/rea/ciencia-aberta/serie3/curso2/aula4.html)</li><li>[Plano de Gestão de Dados](https://mooc.campusvirtual.fiocruz.br/rea/ciencia-aberta/serie3/curso2/aula5.html)</li><li>[Modelo de PGD](https://cloud.jbrj.gov.br/s/BTnX947nFqaRKt7)</li> |
 | 12:00hs - 13:30hs | Almoço |
-| 13:30hs - 15:30hs | Planejando | Exercício com mapas mentais e conceituais |
+| 13:30hs - 15:30hs | Planejando | Exercício com mapas mentais e conceituais<br><li>[MarkMap](https://markmap.js.org/) |
 | 15:30hs - 15:40hs | Café |
 | 15:40hs - 17:00hs | Estruturas de Dados | Tabelas - GRIST e DBDiagram |
 ---
