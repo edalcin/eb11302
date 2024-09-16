@@ -25,7 +25,7 @@
 | 8:30hs - 9:00hs  | Avaliação do primeiro dia | Tempo para críticas e sugestões sobre as atividades do primeiro dia |
 | 9:00hs - 10:50hs  | GitHub | <li>Abrindo a conta</li><li>Criando o projeto</li><li>criando o README.md</li><li>Formas de Edição</li><li>O "Commit"</li> |
 | 10:50hs - 11:00hs | Café |
-| 11:00hs - 12:00hs | Plano de Gestão de Dados | <li>[Princípios F.A.I.R.](https://mooc.campusvirtual.fiocruz.br/rea/ciencia-aberta/serie3/curso2/aula4.html)</li><li>[Plano de Gestão de Dados](https://mooc.campusvirtual.fiocruz.br/rea/ciencia-aberta/serie3/curso2/aula5.html)</li><li>[Modelo de PGD](https://cloud.jbrj.gov.br/s/BTnX947nFqaRKt7)</li> |
+| 11:00hs - 12:00hs | Plano de Gestão de Dados | <li>[Princípios F.A.I.R.](https://mooc.campusvirtual.fiocruz.br/rea/ciencia-aberta/serie3/curso2/aula4.html)</li><li>[Plano de Gestão de Dados](https://mooc.campusvirtual.fiocruz.br/rea/ciencia-aberta/serie3/curso2/aula5.html)</li><li>[Modelo de PGD](https://cloud.jbrj.gov.br/s/ZeP9zRDQR2g5xqq)</li> |
 | 12:00hs - 13:30hs | Almoço |
 | 13:30hs - 15:30hs | Planejando | Exercício com mapas mentais e conceituais<br><li>[MarkMap](https://markmap.js.org/)</li><li>[CMaps](https://cmap.ihmc.us/)</li> |
 | 15:30hs - 15:40hs | Café |
